@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../aardio.gitclone"
+		},
+		{
+			"name": "coffee_diseases_detection_system",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
